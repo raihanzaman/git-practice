@@ -12,3 +12,11 @@ Amongst the leaders of this AI landscape, we have Anthropic's Dario Amodei who b
 ---
 
 > *"But we have a federal government at the moment that certainly does not seem eager to enforce regulations broadly speaking..."*
+
+---
+
+### Comments
+
+These is a very interesting article, espically as someone going into the tech industry. The overall industry and the government needs to take a hard look at what is deemed unsafe and unsustainable in this era of rapid AI development.
+
+Ryan Lin 9.23.2026
